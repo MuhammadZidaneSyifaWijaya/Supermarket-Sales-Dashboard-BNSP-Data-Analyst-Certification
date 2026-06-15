@@ -1,10 +1,10 @@
 # 🛒 Supermarket Sales & Financial Intelligence Dashboard — BNSP Data Analyst Certification
 
 ## 📌 Project Overview
-Delivered an end-to-end Supermarket Sales Dashboard in Advanced Excel to monitor, clean, and optimize retail transactional workflows[cite: 1]. The solution covers key financial domains including Total Sales, Cost tracking, and Net Income analysis across multiple regional sectors, serving as a validated analytical tool to evaluate market performance and operational profitability in real-time.
+Delivered an end-to-end Supermarket Sales Dashboard in Advanced Excel to monitor, clean, and optimize retail transactional workflows. The solution covers key financial domains including Total Sales, Cost tracking, and Net Income analysis across multiple regional sectors, serving as a validated analytical tool to evaluate market performance and operational profitability in real-time.
 
 ## 🏅 National Competency Standards (BNSP Assessment)
-This project was developed as the core practical assessment for the National Professional Certification Agency of Indonesia (BNSP) Data Analyst Competency Evaluation[cite: 1]. Achieving a final score of **90/100**, this implementation officially validates professional mastery of data transformation pipelines, relational structures, and executive-level business intelligence reporting in accordance with national standards.
+This project was developed as the core practical assessment for the National Professional Certification Agency of Indonesia (BNSP) Data Analyst Competency Evaluation. Achieved a final score of **90/100**, this implementation officially validates professional mastery of data transformation pipelines, relational structures, and executive-level business intelligence reporting in accordance with national standards.
 
 ## 📸 Dashboard Interfaces
 
@@ -13,7 +13,7 @@ This project was developed as the core practical assessment for the National Pro
 
 *Disclaimer: All raw operational data fields, exact financial values, customer identities, and corporate metrics have been fully masked, randomized, or generalized to comply with data privacy standards and professional assessment requirements strictly.*
 
-![Sales Performance Summary (Screenshots/Dashboard%20Sales%20Performance%20Summary.png)
+![Sales Performance Summary](Screenshots/Dashboard%20Sales%20Performance%20Summary.png)
 ![Financial Cost Analysis](Screenshots/Dashboard%20Financial%20Cost%20Analysis.png)
 ![Regional Revenue Analytics](Screenshots/Dashboard%20Regional%20Revenue%20Analytics.png)
 
