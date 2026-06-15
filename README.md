@@ -36,4 +36,3 @@ This project was developed as the core practical assessment for the National Pro
 * **Analytics Framework:** Data Table Analysis, Relational Table Schemas.
 * **Domain Expertise:** Retail Analytics, Financial Metrics Tracking (Sales, Cost, Net Income).
 
-## 📂 Repository Structure ```text ├── data/ # File dataset transaksi ritel yang sudah diolah & bersih (.xlsx / .csv) ├── file_dashboard/ # File spreadsheet utama yang berisi dashboard interaktif (.xlsx) └── screenshots/ # Tangkapan layar dari visualisasi dashboard
